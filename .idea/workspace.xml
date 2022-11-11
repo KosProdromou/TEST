@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a77f387e-1fcc-49b0-ad6b-474e3f9a295a" name="Changes" comment="close #4" />
+=======
+    <list default="true" id="a77f387e-1fcc-49b0-ad6b-474e3f9a295a" name="Changes" comment="Close #4" />
+>>>>>>> 4544687 (close #4)
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +21,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$" value="main" />
+=======
+        <entry key="$PROJECT_DIR$" value="kati" />
+>>>>>>> 4544687 (close #4)
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +53,10 @@
       <updated>1668203447678</updated>
       <workItem from="1668203449392" duration="1712000" />
       <workItem from="1668205194951" duration="781000" />
+<<<<<<< HEAD
       <workItem from="1668205994965" duration="663000" />
+=======
+>>>>>>> 4544687 (close #4)
     </task>
     <task id="LOCAL-00001" summary="Close 1">
       <created>1668204492514</created>
@@ -75,6 +86,7 @@
       <option name="project" value="LOCAL" />
       <updated>1668205586186</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00005" summary="close #4">
       <created>1668206014182</created>
       <option name="number" value="00005" />
@@ -83,6 +95,9 @@
       <updated>1668206014182</updated>
     </task>
     <option name="localTasksCounter" value="6" />
+=======
+    <option name="localTasksCounter" value="5" />
+>>>>>>> 4544687 (close #4)
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,8 +119,12 @@
     <MESSAGE value="Close test1" />
     <MESSAGE value="Close #3" />
     <MESSAGE value="Close #4" />
+<<<<<<< HEAD
     <MESSAGE value="close #4" />
     <MESSAGE value="close #1" />
     <option name="LAST_COMMIT_MESSAGE" value="close #1" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="Close #4" />
+>>>>>>> 4544687 (close #4)
   </component>
 </project>
